@@ -11,7 +11,7 @@ This fixes the problem where clicking the volume slider or timeline bar forces t
 
 Safari's vanilla YT spacebar function seems more resiliant than Firefox's (Nov 2023), but arrow keys not so.
 
-**Limitation:** On Firefox this script does not fix the spacebar function when you use any of the buttons (e.g. settings cog). It only works on the volume and timeline sliders. Note however you can still do the same shortcut with the K key. I would love to see this limitation fixed though.
+**Limitation:** On Firefox this script does not fix the spacebar function when you use any of the buttons (e.g. settings cog). It only works on the volume and timeline sliders. Note however you can also pause/play with the K key and it is more reliable. I would love to see this limitation fixed though because spacebar is just so much easier to use than K.
 
 ## YouTube Default Channel Tab
 This makes it so whenever you visit a channel page it selects the Videos tab instead of the Home tab. The Home tab is an annoying default because the VAST majority of the time I'm visiting a channel I'm trying to browse their VIDEOS. jeezless crust the Home tab sucks.
