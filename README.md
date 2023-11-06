@@ -11,3 +11,6 @@ This fixes the problem where clicking the UI controls on a video like the volume
 
 ## YouTube Default Channel Tab
 This makes it so whenever you visit a channel page it selects the Videos tab instead of the Home tab. The Home tab is an annoying default because the VAST majority of the time I'm visiting a channel I'm trying to browse their VIDEOS. jeezless crust the Home tab sucks.
+
+# Installation
+I recommend installing TamperMonkey https://www.tampermonkey.net/ browser extension. Then upload these files from Settings or copy/paste.
